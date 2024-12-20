@@ -1,4 +1,4 @@
-package com.charlie.springframework.beans.factory;
+package com.charlie.springframework.beans;
 
 /**
  * @Author: charlie
